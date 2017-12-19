@@ -12,7 +12,7 @@ use pocketmine\utils\TextFormat as C;
 
 class Main extends PluginBase {
   
-  public $nicks = ["LALA", "HUHU", "HAHA", "BubugagaLp"];
+  public $nicks = ["LALA", "HUHU", "HAHA", "BubugagaLp", "bubbasnsjk", "crawflab", "ahahshiskh", "nicknmanwej", "nick"];
   
   public function onEnable(){
     $this->getLogger()->info(C::GREEN."Activated!");
